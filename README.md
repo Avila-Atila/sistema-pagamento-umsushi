@@ -29,7 +29,7 @@ Carrinho
 
 Checkout
 ├── pagar()
-└── métodos de pagamento: Cartão, Pix
+└── métodos de pagamento: Cartão, Pix, Dinheiro
 ```
 
 ---
